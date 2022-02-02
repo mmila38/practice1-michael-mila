@@ -1,1 +1,1 @@
-# practice1-michael-mila
+tips to working with git and github
